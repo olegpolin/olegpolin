@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @olegpolin
+- 👋 Hi, I’m Oleg Polin
 - 👀 I’m interested in Web Development, Cloud Engineering, and AI
-- 🌱 I’m currently learning Svelte, SvelteKit, Vercel, Supabase, AWS, GCP
-- 💞️ I’m looking to collaborate on all websites, anything from static portfolio websites, to full-stack web applications
+- 🌱 I’m currently learning Svelte, SvelteKit, Tailwind CSS, Supabase, AWS, GCP, Azure
+- 💞️ I’m looking to collaborate on all websites, anything from static websites, to full-stack web applications
 - 📫 How to reach me: olegpolin.com
 
 <!---
